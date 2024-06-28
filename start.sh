@@ -5,7 +5,7 @@ install_in_temp_dir=false
 
 if [ ! -d "Fooocus" ]
 then
-  git clone https://github.com/lllyasviel/Fooocus.git
+  git clone https://github.com/mashb1t/Fooocus.git
 fi
 cd Fooocus
 git pull
